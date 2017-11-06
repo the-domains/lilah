@@ -1,0 +1,70 @@
+name: quantum lilah
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:quantumbodywork@gmail.com'
+    label: Contact me
+  - type: contact
+    url: 'mailto:llconejeros@gmail.com'
+    label: Keep in touch
+description: thai massage based therapy
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad19152f-760a-438c-b18f-929123cd95e6.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad19152f-760a-438c-b18f-929123cd95e6.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.2891670318786055
+color:
+  lightness: 0.423390998836465
+  brandColors:
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+  saturation: 0.05202693004441143
+  brandStrength: 0.2702938288613906
+  rhythmicContrast: 0.006378843916202626
+content_rating:
+  adult: false
+typography_spectrum: 0.7120961321052164
+opengraph: {}
+title: quantum lilah
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f588cc2-29fe-4a3d-acbd-3a1399f2556a.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/73c0e0e8-4e04-4530-b448-184e8c524b15.png
